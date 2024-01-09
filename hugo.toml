@@ -9,3 +9,17 @@ title = 'PDF Toolset Docs'
     [[module.imports]]
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
+
+[params.social]
+    github = "amytho/pdf-acc-toolset"
+    rss = true
+
+[params.docs]
+    darkMode = true
+    themeColor = "magenta"
+    prism = false
+    repoURL = "https://github.com/amytho/pdf-accessibility-toolset-docs"
+    editPage = true
+
+[params.footer]
+    copyright = "Built with LotusDocs"
