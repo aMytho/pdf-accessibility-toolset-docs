@@ -16,7 +16,7 @@ title = 'PDF Toolset Docs'
 
 [params.docs]
     darkMode = true
-    themeColor = "magenta"
+    themeColor = "cyan"
     prism = false
     repoURL = "https://github.com/amytho/pdf-accessibility-toolset-docs"
     editPage = true

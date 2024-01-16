@@ -5,13 +5,13 @@ description: ""
 icon: "article"
 date: "2024-01-05T18:44:23-06:00"
 lastmod: "2024-01-05T18:44:23-06:00"
-draft: true
+draft: false
 toc: true
 ---
 
 Welcome to the docs! These pages contain all of the info related to the project.
 
-The live project can be found on [our website](https://pdf-accessibility.tools).
+{{< alert context="success" text="The live project can be found on [our website](https://pdf-accessibility.tools)." />}}
 
 ## Purpose
 

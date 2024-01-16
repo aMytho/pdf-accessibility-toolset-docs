@@ -26,14 +26,10 @@ hero:
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
-  ctaButton:
+  cta2Button:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "https://pdf-accessibility.tools"
-  cta2Button:
-    icon: construction
-    btnText: "Read the Docs"
-    url: "/docs"
+    url: "/docs/quickstart"
 
   info: "Free and Open Source"
 imageCompare:
