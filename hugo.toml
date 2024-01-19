@@ -22,4 +22,4 @@ title = 'PDF Toolset Docs'
     editPage = true
 
 [params.footer]
-    copyright = "Built with LotusDocs"
+    copyright = "Docs by LotusDocs"
