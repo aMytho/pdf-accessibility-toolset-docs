@@ -1,6 +1,6 @@
 module github.com/aMytho/pdf-accessibility-toolset-docs
 
-go 1.21.5
+go 1.21
 
 require (
 	github.com/colinwilson/lotusdocs v0.1.1-0.20231204194117-128b0ae80b44 // indirect
