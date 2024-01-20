@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 302
 title: "Table Generator"
 description: ""
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 304
 title: "Attribute Modifier"
 description: ""
 icon: "article"

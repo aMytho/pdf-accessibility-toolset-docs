@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 303
 title: "Tag Generator"
 description: ""
 icon: "article"

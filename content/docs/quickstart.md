@@ -1,5 +1,5 @@
 ---
-weight: 800
+weight: 100
 title: "Quickstart"
 description: ""
 icon: "article"

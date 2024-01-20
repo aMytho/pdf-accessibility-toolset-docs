@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 305
 title: "Color Replacer"
 description: ""
 icon: "article"

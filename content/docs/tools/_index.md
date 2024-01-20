@@ -1,5 +1,5 @@
 ---
-weight: 850
+weight: 300
 title: "Tools"
 description: "Tools are the primary way to modify a PDF using the toolset."
 icon: "article"

@@ -1,5 +1,5 @@
 ---
-weight: 999
+weight: 301
 title: "List Generator"
 description: ""
 icon: "article"

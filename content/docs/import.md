@@ -1,5 +1,5 @@
 ---
-weight: 802
+weight: 201
 title: "Import"
 description: "Learn about supported PDF versions and the import options."
 icon: "article"
